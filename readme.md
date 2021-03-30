@@ -9,3 +9,6 @@ Se debe hacer cuando por ejemplo en nuestro proyecto tenemos muchos archivos des
 
 **¿Cómo usaría la página [gitignore.io](https://www.toptal.com/developers/gitignore "gitignore.io")?**
 La usaria para crear un archivo .gitignore de forma automatica por medio de una especie de plantillas. Pôr ejemplo se escribe el lenguaje el cual se utiliza en el proyecto, hacemos click donde dice **Create** y se nos creara de forma automatica todos los archivos que necesitas ignorar ya que son casi siempre los mismos.
+
+**¿Cómo configuraría el archivo .gitignore?**
+Lo configuraría de tal forma que solo se muestre el codigo, el archivo .md, y dependiendo el tipo de proyecto mostraria algo mas lo cual permita o ayude a entender como funciona el codigo.
