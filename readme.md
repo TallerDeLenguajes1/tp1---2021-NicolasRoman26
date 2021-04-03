@@ -20,5 +20,5 @@ Se debe a que declaramos un puntero el cual apunta a una variable, esa variable 
 **¿Qué obtiene en el punto 4?**
 Se obtiene la direccion de memoria del puntero, la cual se le asigno al puntero a la hora de declararlo.
 
-**¿Es igual a los anteriores? ¿Por qué? **
+**¿Es igual a los anteriores? ¿Por qué?**
 No es igual que los anteriores, tanto el puntero como la variable tienen su propia asignacion de memoria, la funcion del puntero es contener la direccion de memoria de una variable a la cual apunta, por lo tanto al apuntar a una variable cualquiera el puntero no se almacena en la misma direccion de memoria de esa variable, ya desde el inicio a la hora de declarar tanto el puntero como la variable se les asigna su propia direccion de memoria.
